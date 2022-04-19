@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+.img-circle {
+    border-radius: 50%;
+}.profile-user-img {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    padding: 3px;
+    border: 3px solid #adb5bd;
+}img {
+    vertical-align: middle;
+    border-style: none;
+}
+body{
+      background-image: url("https://image.ibb.co/de6JzG/bitmap_1_1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+    font-family: "Poppins", sans-serif;
+}
+.card {
+    width: 700px;
+    margin: auto;
+    border-top: 4px solid blueviolet;
+}
+.bg{
+    background-color: #7952b3;
+}

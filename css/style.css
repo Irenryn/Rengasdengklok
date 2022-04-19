@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+body{
+     background-image: url("https://image.ibb.co/de6JzG/bitmap_1_1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+    font-family: "Poppins", sans-serif;
+}
+.isi-card{
+    width: 1000px;
+    margin: auto;
+    border: 5px;
+}
+.bg{
+background-color: #7952b3;
+}
+p{text-indent: 20px;margin-top: 10px;}
+.img{width: 650px;
+display: block;
+}
+.waves{
+ background-color: #273036;   
+ margin-top: -10px;
+}
+.img-konsep{
+    width: 300px;
+}
+.img-isi{
+    width: 400px;
+}
